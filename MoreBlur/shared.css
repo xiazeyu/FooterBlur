@@ -3,8 +3,8 @@
 	backdrop-filter: blur(var(--moreBlur-strength));
 }
 
-.header_Header.OverrideHeaderBackground.gpfocuswithin {
-	backdrop-filter: blur(var(--moreBlur-strength));
+.header_Header.OverrideHeaderBackground.gpfocuswithin,
+.header_Header::before {
 	background-color: rgba(0, 0, 0, var(--moreBlur-header-opacity));
 }
 

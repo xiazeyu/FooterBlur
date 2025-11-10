@@ -9,7 +9,7 @@
     "shared.css": ["SP", "QuickAccess", "MainMenu"]
   },
   "patches": {
-    "Header blur strength": {
+    "Blur strength": {
       "type": "slider",
       "default": "5",
       "values": {

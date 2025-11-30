@@ -4,9 +4,9 @@ This theme applies a blur effect to the footer area, without clipping the boot a
 
 ## Screenshots
 
-![FooterBlur Settings](20251109025225_1.jpg)
+![FooterBlur Screenshot](imgs/20251109025154_1.jpg)
 
-![FooterBlur Screenshot](20251109025154_1.jpg)
+![FooterBlur Settings](imgs/20251109025225_1.jpg)
 
 ## Acknowledgements
 
@@ -23,6 +23,16 @@ This theme was created using resources and inspiration from the following source
 # MoreBlur
 
 This theme applies a blur (or transparent) effect to the header, footer, main menu, QAM, plus a simplest volume popin.
+
+## Screenshots
+
+![MoreBlur Screenshot - Home View](imgs/20251129211419_1.jpg)
+
+![MoreBlur Screenshot - QAM](imgs/20251129211500_1.jpg)
+
+![MoreBlur Screenshot - Main Menu](imgs/20251129211509_1.jpg)
+
+![MoreBlur Settings](imgs/20251129211523_1.jpg)
 
 ## Acknowledgements
 
